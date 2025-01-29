@@ -20,6 +20,6 @@ def get_info():
     return {
         "email": "easykelchimdikejohn@gmail.com", 
         "current_datetime": current_datetime,
-        "github_url": "https://github.com/cdJohnEl/HNG12_Backend_Stage_0.git" 
+        "github_url": "https://github.com/cdJohnEl/HNG12_Backend_Stage_0" 
     }, 200
 

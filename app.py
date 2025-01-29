@@ -21,5 +21,5 @@ def get_info():
         "email": "easykelchimdikejohn@gmail.com", 
         "current_datetime": current_datetime,
         "github_url": "https://github.com/cdJohnEl/HNG12_Backend_Stage_0.git" 
-    }
+    }, 200
 

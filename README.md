@@ -85,7 +85,7 @@ print(response.json())
 This project is open-source and free to use.
 
 ## 👨‍💻 Author
-- **Your Name**
+- **John Chimdike Ezekiel**
 - GitHub: [cdJohnEL](hhttps://github.com/cdJohnEl)
 - Email: easykelchimdikejohn@gmail.com
 

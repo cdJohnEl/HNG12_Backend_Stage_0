@@ -37,7 +37,7 @@ http://127.0.0.1:8000
 
 ## 🌍 Deployed API URL
 🔗 **Live API Endpoint:**  
-`https://your-api-url.com`
+`https://hng12-backend-stage-0.onrender.com/`
 
 ---
 
@@ -60,12 +60,12 @@ GET /
 ### **📌 Example Usage**
 #### **Using `curl`**
 ```sh
-curl -X GET https://your-api-url.com
+curl -X GET https://hng12-backend-stage-0.onrender.com/
 ```
 #### **Using Python**
 ```python
 import requests
-response = requests.get("https://your-api-url.com")
+response = requests.get("https://hng12-backend-stage-0.onrender.com/")
 print(response.json())
 ```
 
